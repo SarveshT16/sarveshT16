@@ -149,7 +149,7 @@
   <summary><h2>👨‍💻 Repositories 👨‍💻</h2></summary>
 <br>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/SarveshT16/First-site" title="First-site"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SarveshT16&repo=portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/SarveshT16/First-site" title="First-site"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SarveshT16&repo=First-site&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 </details>
